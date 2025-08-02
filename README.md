@@ -1,9 +1,6 @@
 # 💫 About Me:
 As a forward-thinking Data Analyst with a passion for leveraging data to drive impactful business decisions, I am currently honing my expertise through a Master's Program in Data Analytics with Cloud Technology & AI at Analytics With Anand. My internships with Analytics With Anand have equipped me with real-world experience in advanced data analysis, cloud platforms, and cutting-edge tools like SQL, Python, Power BI, and Tableau.<br><br>In addition to my technical skills, I bring hands-on experience in managing high-traffic e-commerce platforms, including Amazon, Flipkart, and Meesho, where I’ve successfully utilized data-driven insights to optimize performance and grow revenue. My experience spans ETL processes, large-scale data management, and the practical application of AI and machine learning in the cloud environment, including Azure and AWS.
 
-
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"/> 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_._aryan_._536/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aryanmehta536/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashmehta536@gmail.com) 
 
