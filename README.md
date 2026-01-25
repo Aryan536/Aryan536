@@ -43,6 +43,7 @@ Results-driven **Data Analyst** with expertise in transforming complex data into
 ![Alteryx](https://img.shields.io/badge/Alteryx-0077C8?style=for-the-badge&logo=alteryx&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-EA2D2E?style=for-the-badge&logo=databricks&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 
 
@@ -58,7 +59,6 @@ Results-driven **Data Analyst** with expertise in transforming complex data into
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 
 ---
