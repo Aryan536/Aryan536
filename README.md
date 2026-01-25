@@ -1,14 +1,7 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=38&duration=2800&pause=700&color=1F6FEB&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Aryan+Mehta+%F0%9F%91%8B;Professional+Data+Analyst;Cloud+%26+AI+Analytics+Specialist;Turning+Data+Into+Business+Impact" />
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi there, I'm Aryan Mehta
 
 
-
-</div>
-
----
-
-# 👨‍💼 Aryan Mehta | Data Analyst | Cloud & AI Analytics
+##  Data Analyst | Cloud & AI Analytics
 
 ## 🚀 Professional Summary
 
